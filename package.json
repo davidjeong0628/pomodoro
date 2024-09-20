@@ -1,0 +1,19 @@
+{
+  "name": "pomodoro",
+  "version": "1.0.0",
+  "description": "A minimalistic Pomodoro timer app.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidjeong0628/pomodoro.git"
+  },
+  "author": "David Jeong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davidjeong0628/pomodoro/issues"
+  },
+  "homepage": "https://github.com/davidjeong0628/pomodoro#readme"
+}
